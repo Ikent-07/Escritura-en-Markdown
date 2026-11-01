@@ -1,10 +1,6 @@
 # Escritura-en-Markdown
 Como escribir cada cosa en Markdown (el metodo de escritura de github)
 
-# GUÍA COMPLETA DE MARKDOWN PARA GITHUB
-
----
-
 # 1. TÍTULOS
 
 ```markdown

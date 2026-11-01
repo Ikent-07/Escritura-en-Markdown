@@ -213,4 +213,14 @@ Los comentarios no se muestran en el resultado visual de Markdown.
 
 ---
 
-@Ikent_07
+---
+
+<p align="center">
+  <img src="https://github.com/Ikent-07.png" width="150" alt="Foto de perfil">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ikent-07">
+    <strong>Ikent-07</strong>
+  </a>
+</p>

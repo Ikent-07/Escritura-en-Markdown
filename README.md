@@ -214,12 +214,8 @@ Los comentarios no se muestran en el resultado visual de Markdown.
 ---
 
 ```html
----
-
 <p align="left">
-  <img src="https://github.com/Ikent-07.png" width="65" style="border-radius: 50%;" alt="Foto de perfil">
-  <a href="https://github.com/Ikent-07">
-    <strong>Ikent-07</strong>
-  </a>
+  <img src="https://github.com/Ikent-07.png" width="60" height="60" style="border-radius: 50%;" alt="Foto de perfil">
+  <a href="https://github.com/Ikent-07"><strong>Ikent-07</strong></a>
 </p>
 ```
